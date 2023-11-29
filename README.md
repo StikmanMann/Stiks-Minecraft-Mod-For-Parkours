@@ -9,4 +9,7 @@ Also I dont have plans to continue this alot so yeah...
 
 And in retrospective I have few things to change, like mainly the saving feature I coded
 
+Also Also I did not chewck the world edit mod, i ported it over from my old one and since minecraft did updates some things are broken etc.
+
+
 Enjoy!
